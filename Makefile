@@ -1,5 +1,5 @@
 PKG = oomplay
-PKGVER = 0.2.0
+PKGVER = 0.3.0
 PKGURL = https://github.com/oom-ai/$(PKG)/releases/download/v$(PKGVER)/$(PKG)-v$(PKGVER)-x86_64-apple-darwin.tar.gz
 
 .PHONY: codegen
