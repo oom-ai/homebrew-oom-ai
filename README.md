@@ -1,3 +1,3 @@
-# homebrew-oomplay
+# homebrew-oom-ai
 
-Homebrew formula for the [oomplay](https://github.com/oom-ai/oomplay) on macOS.
+Homebrew formulas for [oom-ia](https://github.com/oom-ai).
