@@ -4,10 +4,10 @@
 class Ffgen < Formula
   desc "A fast fake feature generator"
   homepage "https://github.com/oom-ai/ffgen"
-  url "https://github.com/oom-ai/ffgen/releases/download/v0.3.1/ffgen-v0.3.1-x86_64-apple-darwin.tar.gz"
-  sha256 "d38bfc4f1f19b73aea4e0fdc5c00780785fe2a68d0a750b707cda4e51fa8bf1f"
+  url "https://github.com/oom-ai/ffgen/releases/download/v0.3.3/ffgen-v0.3.3-x86_64-apple-darwin.tar.gz"
+  sha256 "0ddac839f6db78cc9471c23a024865bd1f81f9a0008294cf7e081642cd764acf"
   license "MIT/APACHE-2.0"
-  version "0.3.1"
+  version "0.3.3"
 
   def install
     bin.install "ffgen"
