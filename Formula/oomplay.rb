@@ -4,10 +4,10 @@
 class Oomplay < Formula
   desc "Playground manager for oomstore"
   homepage "https://github.com/oom-ai/oomplay"
-  url "https://github.com/oom-ai/oomplay/releases/download/v0.6.4/oomplay-v0.6.4-x86_64-apple-darwin.tar.gz"
-  sha256 "d68ff26fa90ccac37bbfe911924f5b1ecf8324349b5218af3ab8998987ed56c4"
+  url "https://github.com/oom-ai/oomplay/releases/download/v0.6.5/oomplay-v0.6.5-x86_64-apple-darwin.tar.gz"
+  sha256 "8b18535fa6e796ca16a622f01525f6661933aec6688b879ff2703e5d4804ec86"
   license "MIT/APACHE-2.0"
-  version "0.6.4"
+  version "0.6.5"
 
   def install
     bin.install "oomplay"
