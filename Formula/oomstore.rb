@@ -4,10 +4,10 @@
 class Oomstore < Formula
   desc "Toolset for oomstore, a lightweight and fast feature store powered by go."
   homepage "https://github.com/oom-ai/oomstore"
-  url "https://github.com/oom-ai/oomstore/releases/download/v0.0.5-beta/oomstore-v0.0.5-beta-amd64-darwin.tar.gz"
-  sha256 "885e298d2665e263d5cd27af33ceb06415989645f10285d9b30229c3817346b5"
+  url "https://github.com/oom-ai/oomstore/releases/download/v0.0.5-rc1/oomstore-v0.0.5-rc1-amd64-darwin.tar.gz"
+  sha256 "d1a65b80b202ed3a29233a1f6af2b659d9f6ceccf882965b486f6e1349346e0b"
   license "APACHE-2.0"
-  version "0.0.5-beta"
+  version "0.0.5-rc1"
 
   def install
     bin.install "oomcli"
